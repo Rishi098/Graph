@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="lecho.lib.hellocharts.samples.LineChartActivity" >
+    <item
+        android:id="@+id/action_toggle_labels"
+        android:title="Toggle labels"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_toggle_selection_mode"
+        android:title="Toggle selection mode"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_toggle_touch_zoom"
+        android:title="Toggle touch zoom"
+        app:showAsAction="never"/>
+
+
+</menu>
